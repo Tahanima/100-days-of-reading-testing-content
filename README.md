@@ -1,0 +1,2 @@
+# 100-days-of-reading-testing-content
+This repository keeps track of all of my readings for the "100 Days of Reading Testing Content" challenge.
