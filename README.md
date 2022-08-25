@@ -25,3 +25,4 @@ This repository keeps track of all of my readings for the _**100 Days of Reading
 | 20 | August 20, 2022 | <ul><li>[Test Automation Myth-Busting](https://automationpanda.com/2017/10/01/test-automation-myth-busting/)</li><li>[The Software Engineer in Test](https://automationpanda.com/2018/10/02/the-software-engineer-in-test/)</li></ul> |
 | 21 | August 23, 2022 | <ul><li>[Invest in Yourself](https://nicolalindgren.com/2022/07/22/invest-in-yourself/)</li><li>[Struggling to motivate yourself to learn something new?](https://nicolalindgren.com/2022/07/26/struggling-to-motivate-yourself-to-learn-something-new/)</li></ul> |
 | 22 | August 24, 2022 | <ul><li>[Why You Should Ask For Feedback](https://nicolalindgren.com/2022/01/08/why-you-should-ask-for-feedback/)</li></ul> |
+| 23 | August 25, 2022 | <ul><li>[What Does It Mean To Be A Technical Tester?](https://www.ministryoftesting.com/dojo/lessons/what-does-it-mean-to-be-a-technical-tester)</li></ul> |
